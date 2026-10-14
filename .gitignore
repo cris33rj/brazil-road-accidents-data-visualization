@@ -1,15 +1,20 @@
+# OS
 .DS_Store
+Thumbs.db
+
+# Node / Observable Framework
+node_modules/
 dist/
 docs/.observablehq/cache/
-node_modules/
 yarn-error.log
-venv
-.venv
-python.exe
-python3.exe
-python3.dll
-python312.dll
-pythonw.exe
-pyvenv.cfg
-vcruntime140_1.dll
-vcruntime140.dll
+
+# Python
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/output/
+
+# Editor
+.vscode/
+.idea/
