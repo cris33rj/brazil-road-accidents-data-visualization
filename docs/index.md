@@ -66,7 +66,7 @@ p { max-width: none; }
         <h2><a href="2.2-Analise_regional">2.2 - Análise Regional</a></h2>
     </div>
     <div class="card" >
-        <h2><a href="2.3-Gravidade de Acidentes">2.3 - Gravidade de Acidentes</a></h2>
+        <h2><a href="2.3-Gravidade_de_acidentes">2.3 - Gravidade de Acidentes</a></h2>
     </div>
     <div class="card" >
         <h2><a href="2.4-Tipos_e_causas_de_acidentes">2.4 - Tipos e Causas de Acidentes</a></h2>
