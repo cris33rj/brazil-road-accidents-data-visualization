@@ -42,7 +42,6 @@ toc: false
 }
 
 p { max-width: none; }
->
 
 </style>
 
@@ -56,7 +55,7 @@ p { max-width: none; }
 <div class="grid grid-cols-3">
 <span class="card"><h4>1 - Introdução<br></h4>
     <div class="card" flex>
-        <h2><a href="1-Apresentacao">1.1 - Apresentação</a></h2>
+        <h2><a href="1.1-Apresentacao">1.1 - Apresentação</a></h2>
     </div>
 </span>
 <span class="card"><h4>2 - Desenvolvimento<br></h4>
@@ -78,10 +77,10 @@ p { max-width: none; }
 </span>
 <span class="card"><h4>3 - Fechamento<br></h4>
     <div class="card">
-        <h2><a href="5- Discussao">3.1 - Discussão</a></h2>
+        <h2><a href="3.1-Discussao">3.1 - Discussão</a></h2>
     </div>
     <div class="card" >
-        <h2><a href="6-Conclusao">3.2 - Conclusão</a></h2>
+        <h2><a href="3.2-Conclusao">3.2 - Conclusão</a></h2>
     </div>
 </span>
 </div>
